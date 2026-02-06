@@ -1,0 +1,92 @@
+{
+    "1. Hello! (Greetings)": [
+        {"q": "Hello! — ___!", "opts": ["Hi", "Bye", "Good"], "ans": "Hi"},
+        {"q": "How ___ you?", "opts": ["am", "is", "are"], "ans": "are"},
+        {"q": "I am ___, thanks.", "opts": ["fine", "small", "red"], "ans": "fine"},
+        {"q": "Nice to ___ you.", "opts": ["meet", "look", "listen"], "ans": "meet"},
+        {"q": "What is your ___?", "opts": ["name", "book", "cat"], "ans": "name"},
+        {"q": "Good ___! (Morning)", "opts": ["afternoon", "morning", "night"], "ans": "morning"},
+        {"q": "Goodbye! — ___!", "opts": ["Hello", "Bye-bye", "Hi"], "ans": "Bye-bye"}
+    ],
+    "2. I, You, He, She (Pronouns)": [
+        {"q": "___ am a teacher.", "opts": ["I", "He", "She"], "ans": "I"},
+        {"q": "___ is a boy (Tom).", "opts": ["He", "She", "It"], "ans": "He"},
+        {"q": "___ is a girl (Anna).", "opts": ["He", "She", "It"], "ans": "She"},
+        {"q": "___ is a dog.", "opts": ["He", "She", "It"], "ans": "It"},
+        {"q": "___ are friends (Tom and I).", "opts": ["We", "They", "He"], "ans": "We"},
+        {"q": "___ are students (children).", "opts": ["They", "I", "He"], "ans": "They"},
+        {"q": "Are ___ happy?", "opts": ["you", "he", "she"], "ans": "you"}
+    ],
+    "3. To Be: Singular": [
+        {"q": "I ___ ten years old.", "opts": ["am", "is", "are"], "ans": "am"},
+        {"q": "He ___ my dad.", "opts": ["am", "is", "are"], "ans": "is"},
+        {"q": "She ___ a doctor.", "opts": ["am", "is", "are"], "ans": "is"},
+        {"q": "It ___ a sunny day.", "opts": ["am", "is", "are"], "ans": "is"},
+        {"q": "The cat ___ small.", "opts": ["am", "is", "are"], "ans": "is"},
+        {"q": "My mom ___ beautiful.", "opts": ["am", "is", "are"], "ans": "is"},
+        {"q": "I ___ not a robot.", "opts": ["am", "is", "are"], "ans": "am"}
+    ],
+    "4. To Be: Plural": [
+        {"q": "We ___ at home.", "opts": ["am", "is", "are"], "ans": "are"},
+        {"q": "They ___ my toys.", "opts": ["am", "is", "are"], "ans": "are"},
+        {"q": "You ___ very kind.", "opts": ["am", "is", "are"], "ans": "are"},
+        {"q": "Tom and Sam ___ brothers.", "opts": ["am", "is", "are"], "ans": "are"},
+        {"q": "The books ___ on the table.", "opts": ["am", "is", "are"], "ans": "are"},
+        {"q": "We ___ not hungry.", "opts": ["am", "is", "are"], "ans": "are"},
+        {"q": "Apples ___ red.", "opts": ["am", "is", "are"], "ans": "are"}
+    ],
+    "5. Numbers 1-20": [
+        {"q": "One, two, ___, four.", "opts": ["three", "five", "six"], "ans": "three"},
+        {"q": "Five, six, ___, eight.", "opts": ["seven", "nine", "ten"], "ans": "seven"},
+        {"q": "Nine, ten, ___.", "opts": ["eleven", "twelve", "zero"], "ans": "eleven"},
+        {"q": "12 = ___.", "opts": ["twelve", "twenty", "ten"], "ans": "twelve"},
+        {"q": "15 = ___.", "opts": ["fifty", "fifteen", "five"], "ans": "fifteen"},
+        {"q": "18 + 2 = ___.", "opts": ["twenty", "twelve", "thirty"], "ans": "twenty"},
+        {"q": "How old are you? — I am ___ (7).", "opts": ["seven", "seventeen", "second"], "ans": "seven"}
+    ],
+    "6. Colors": [
+        {"q": "The grass is ___.", "opts": ["green", "blue", "red"], "ans": "green"},
+        {"q": "A banana is ___.", "opts": ["yellow", "black", "pink"], "ans": "yellow"},
+        {"q": "The sea is ___.", "opts": ["blue", "grey", "white"], "ans": "blue"},
+        {"q": "Snow is ___.", "opts": ["white", "green", "brown"], "ans": "white"},
+        {"q": "A tomato is ___.", "opts": ["red", "purple", "orange"], "ans": "red"},
+        {"q": "A pig is ___.", "opts": ["pink", "blue", "yellow"], "ans": "pink"},
+        {"q": "Night is ___.", "opts": ["black", "white", "green"], "ans": "black"}
+    ],
+    "7. Family Members": [
+        {"q": "My mother's husband is my ___.", "opts": ["father", "brother", "son"], "ans": "father"},
+        {"q": "My father's daughter is my ___.", "opts": ["sister", "uncle", "mom"], "ans": "sister"},
+        {"q": "Grandpa and ___.", "opts": ["grandma", "sister", "dad"], "ans": "grandma"},
+        {"q": "My father's brother is my ___.", "opts": ["uncle", "aunt", "brother"], "ans": "uncle"},
+        {"q": "My mom's sister is my ___.", "opts": ["aunt", "grandma", "sister"], "ans": "aunt"},
+        {"q": "I love my ___ (parents).", "opts": ["family", "school", "pets"], "ans": "family"},
+        {"q": "He is my ___ (child).", "opts": ["son", "daughter", "mother"], "ans": "son"}
+    ],
+    "8. Animals": [
+        {"q": "A ___ can bark.", "opts": ["dog", "cat", "bird"], "ans": "dog"},
+        {"q": "A ___ has a long neck.", "opts": ["giraffe", "lion", "hippo"], "ans": "giraffe"},
+        {"q": "A ___ is the king of jungle.", "opts": ["lion", "mouse", "cow"], "ans": "lion"},
+        {"q": "A ___ jumps and loves cheese.", "opts": ["mouse", "elephant", "fish"], "ans": "mouse"},
+        {"q": "A ___ is very big.", "opts": ["elephant", "frog", "bee"], "ans": "elephant"},
+        {"q": "A ___ can talk.", "opts": ["parrot", "fish", "horse"], "ans": "parrot"},
+        {"q": "A ___ gives us milk.", "opts": ["cow", "cat", "tiger"], "ans": "cow"}
+    ],
+    "9. Fruits & Food": [
+        {"q": "A red fruit: ___.", "opts": ["apple", "bread", "milk"], "ans": "apple"},
+        {"q": "Mice love ___.", "opts": ["cheese", "juice", "egg"], "ans": "cheese"},
+        {"q": "I drink orange ___.", "opts": ["juice", "pizza", "cake"], "ans": "juice"},
+        {"q": "We eat ___ in the morning.", "opts": ["breakfast", "dinner", "night"], "ans": "breakfast"},
+        {"q": "Sweet dessert: ___.", "opts": ["cake", "potato", "salt"], "ans": "cake"},
+        {"q": "Yellow fruit: ___.", "opts": ["lemon", "meat", "fish"], "ans": "lemon"},
+        {"q": "It is cold and sweet: ___.", "opts": ["ice cream", "soup", "tea"], "ans": "ice cream"}
+    ],
+    "10. School Supplies": [
+        {"q": "I write with a ___.", "opts": ["pen", "chair", "window"], "ans": "pen"},
+        {"q": "I read a ___.", "opts": ["book", "pencil", "bag"], "ans": "book"},
+        {"q": "My ___ is on my back.", "opts": ["backpack", "desk", "ruler"], "ans": "backpack"},
+        {"q": "I draw with a ___.", "opts": ["pencil", "rubber", "door"], "ans": "pencil"},
+        {"q": "The ___ is big and green.", "opts": ["blackboard", "book", "pen"], "ans": "blackboard"},
+        {"q": "I sit on a ___.", "opts": ["chair", "table", "floor"], "ans": "chair"},
+        {"q": "Clean the board with a ___.", "opts": ["sponge", "ruler", "case"], "ans": "sponge"}
+    ]
+}
